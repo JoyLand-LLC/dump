@@ -1,4 +1,6 @@
 echo this is the second script
 this is the fourth changes being made
 sudo yum install talk talkd
+echo that code those not work
+for python use apt.get install talk talk
  
